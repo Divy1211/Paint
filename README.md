@@ -9,5 +9,5 @@ I have coded a Paint program in Processing (a java animations library), my code 
 # How the program works
 
 1. Click on any colour to change colours
-2. click on a line width to select line width
+2. Click on a line width to select line width
 ![Main Screen](https://github.com/Divy1211/Paint/blob/master/my_drawing.png)
