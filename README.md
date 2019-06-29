@@ -10,4 +10,5 @@
 
 1. Click on any colour to change colours
 2. Click on a line width to select line width
+3. You can save your image by pressing 's'
 ![Main Screen](https://github.com/Divy1211/Paint/blob/master/my_drawing.png)
